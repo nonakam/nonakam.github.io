@@ -6,8 +6,12 @@ body {
   color: #484848;
   font-size: 20px;
   font-family: "Yu Gothic Medium", YuGothic, sans-serif;
-  background-color: #F1F0E8;
+  background-color: #f7f2ea !important;
   line-height: normal;
+}
+
+.en-text {
+  font-family: "DM Serif Text", serif;
 }
 
 /*［リンク文字の書式］文字色：親と同じ、下線なし → body書式の下へ移動、WebDesignにリンクを設定 */
@@ -17,7 +21,7 @@ a {
 }
 
 .navbar {
-  font-family: "DM Serif Text", serif;
+  background-color: #afd4b6;
 }
 
 .navbar-brand {
