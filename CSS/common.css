@@ -21,7 +21,7 @@ a {
   text-decoration: none;
 }
 
-.navbar {
+/* .navbar {
   font-size: 25px;
   font-family: "DM Serif Text", serif;
   font-weight: 400;
@@ -31,9 +31,9 @@ a {
   overflow: hidden;
   background-color: pink;
   padding: 20px;
-}
+} */
 
-.nav-menu {
+/* .nav-menu {
   float: right;
   margin: 0;
 }
@@ -41,7 +41,7 @@ a {
 .nav-menu li {
   display: inline;
   padding-left: 20px;
-}
+} */
 
 /* li {
     list-style-type: none;
@@ -60,3 +60,11 @@ a {
 .test {
   background-color: red;
 }
+
+footer {
+  padding: 20px;
+}
+.right {
+  text-align: right;
+}
+
