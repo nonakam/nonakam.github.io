@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+
+/* :root {
+  scroll-behavior: smooth;
+} */
+/*［bodyの書式］文字色:濃いグレー、文字サイズ:16px、書体:游ゴシック体、背景色:ベージュ */
+body {
+  margin: 0;
+  /* color: #484848;
+  font-size: 20px;
+  font-family: "Yu Gothic Medium", YuGothic, sans-serif;
+  
+  background-color: #F1F0E8;
+  text-align: center;
+  line-height: normal; */
+}
+
+/*［リンク文字の書式］文字色：親と同じ、下線なし → body書式の下へ移動、WebDesignにリンクを設定 */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.navbar {
+  font-size: 25px;
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: normal;
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+  background-color: pink;
+  padding: 20px;
+}
+
+.nav-menu {
+  float: right;
+  margin: 0;
+}
+
+.nav-menu li {
+  display: inline;
+  padding-left: 20px;
+}
+
+/* li {
+    list-style-type: none;
+} */
+
+/*class="container"の書式 */
+.container {
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* TODO Remove test style */
+.test {
+  background-color: red;
+}
