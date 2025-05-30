@@ -4,7 +4,8 @@
 
 .banner-text {
     font-size: 4rem;
-    border-bottom: solid #afd4b6 5px;
+    color: white;
+    background-color: #5bd9f5;
     padding-top: 90px;
     padding-bottom: 90px;
 }
