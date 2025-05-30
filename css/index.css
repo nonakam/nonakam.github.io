@@ -1,9 +1,11 @@
 .center {
     text-align: center;
+    padding-top: 40px;
 }
 
 .banner-text {
     font-size: 4rem;
+    /* font-weight: bold; */
     color: white;
     background-color: #5bd9f5;
     padding-top: 90px;

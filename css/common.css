@@ -15,6 +15,10 @@ body {
   font-family: "Montserrat", "Noto Sans JP", "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", meiryo, sans-serif;
 }
 
+.b-en-text {
+  color: #5bd9f5;
+}
+
 /*［リンク文字の書式］文字色：親と同じ、下線なし → body書式の下へ移動、WebDesignにリンクを設定 */
 a {
   color: inherit;
