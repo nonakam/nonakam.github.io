@@ -29,3 +29,13 @@
     margin-right: auto;
     border: solid lightgray 1px ;
 }
+
+.btn.btn-outline-primary{
+    color: #5bd9f5;
+    border-color: #5bd9f5;
+}
+
+.btn.btn-outline-primary:hover{
+    background-color: #5bd9f5;
+    border-color: #5bd9f5;
+}
