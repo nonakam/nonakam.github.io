@@ -35,9 +35,21 @@ a {
   color: white;
 }
 
+.navbar-brand:hover {
+  color: #baeffa !important;
+}
+
 .navbar-nav .nav-link {
   font-weight: bold;
   color: white;
+}
+
+.nav-link:hover {
+  color: #baeffa !important;
+}
+
+.nav-link.active {
+  color: white !important;
 }
 
 .thin-container-s {
