@@ -36,8 +36,6 @@ a {
 }
 
 .navbar-nav .nav-link {
-  /* font-size: 1rem; */
-  font-weight: bold;
   font-weight: bold;
   color: white;
 }
@@ -49,15 +47,16 @@ a {
   padding-right: 15%;
 }
 
-/* TODO Remove test style */
-.test {
-  background-color: red;
+footer {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #5bd9f5;
 }
 
-footer {
-  padding: 20px;
-}
 .right {
   text-align: right;
+  color: white;
 }
 
