@@ -1,0 +1,12 @@
+h2 {
+    font-size: 1.5rem !important;
+    font-weight: bold !important;
+}
+.thin-container-xs {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.row {
+    margin-bottom: 40px;
+}
