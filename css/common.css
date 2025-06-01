@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+@import url('navbar.css');
 
 /*［bodyの書式］文字色:濃いグレー、文字サイズ:16px、書体:游ゴシック体、背景色:ベージュ */
 body {
@@ -23,33 +24,6 @@ body {
 a {
   color: #5bd9f5 !important;
   text-decoration: none;
-}
-
-.navbar {
-  background-color: #5bd9f5;
-}
-
-.navbar-brand {
-  font-size: 1.3rem !important;
-  font-weight: bold;
-  color: white !important;
-}
-
-.navbar-brand:hover {
-  color: #baeffa !important;
-}
-
-.navbar-nav .nav-link {
-  font-weight: bold;
-  color: white !important;
-}
-
-.nav-link:hover {
-  color: #baeffa !important;
-}
-
-.nav-link.active {
-  color: white !important;
 }
 
 .thin-container-s {
