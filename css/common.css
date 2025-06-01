@@ -46,4 +46,7 @@ footer {
   text-align: right;
   color: white;
 }
-
+.center {
+    text-align: center;
+    padding-top: 40px;
+}
