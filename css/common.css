@@ -21,7 +21,7 @@ body {
 
 /*［リンク文字の書式］文字色：親と同じ、下線なし → body書式の下へ移動、WebDesignにリンクを設定 */
 a {
-  color: inherit;
+  color: #5bd9f5 !important;
   text-decoration: none;
 }
 
@@ -32,7 +32,7 @@ a {
 .navbar-brand {
   font-size: 1.3rem !important;
   font-weight: bold;
-  color: white;
+  color: white !important;
 }
 
 .navbar-brand:hover {
@@ -41,7 +41,7 @@ a {
 
 .navbar-nav .nav-link {
   font-weight: bold;
-  color: white;
+  color: white !important;
 }
 
 .nav-link:hover {
